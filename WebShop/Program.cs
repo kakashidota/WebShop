@@ -8,6 +8,7 @@ namespace WebShop
     {
         static void Main(string[] args)
         {
+            //Kommertar
 
             List<Product> inventory = new List<Product>()
             {
